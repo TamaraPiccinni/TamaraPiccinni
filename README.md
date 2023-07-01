@@ -1,5 +1,5 @@
 ## Hi I'm Tamara Piccinni👋
-- Soy estudiante de Programación **UTN San Rafael**
+- Soy estudiante de la Tecnicatura Universitaria en Programación **UTN San Rafael**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
