@@ -1,5 +1,6 @@
 ## Hi I'm Tamara Piccinni👋
-- Soy estudiante de la Tecnicatura Universitaria en Programación **UTN San Rafael**
+- Soy estudiante de 2º año la Tecnicatura Universitaria en Programación **UTN San Rafael**
+- soy Tutora de la carrera.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
