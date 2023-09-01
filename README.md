@@ -1,7 +1,18 @@
-## Hi I'm Tamara Piccinni👋
-- Soy estudiante de 2º año la Tecnicatura Universitaria en Programación **UTN San Rafael**
-- soy Tutora de la carrera.
+Hola! Soy Tamara Piccinni, estudiante de segundo año de la Tecnicatura Universitaria en Programación en la UTN San Rafael. También soy tutora de la carrera.
 
+Soy una apasionada de la tecnología y siempre estoy buscando nuevas formas de aprender y crecer. Soy una persona responsable y confiable, y soy buena para liderar y coordinar equipos. También soy sociable y tolerante, y siempre estoy buscando nuevas soluciones.
+
+Tengo conocimientos avanzados en los siguientes lenguajes y herramientas:
+
+* HTML, CSS, JavaScript
+* Python, Java, Django
+* Docker, Git, GitHub
+* MySQL, PostgreSQL, SQLite
+* Photoshop
+
+Estoy siempre buscando nuevas oportunidades para aprender y crecer. Estoy ansiosa por contribuir a la comunidad de código abierto y ayudar a otros a aprender a programar.
+
+Si estás buscando una desarrolladora motivada y talentosa, soy la persona para ti. ¡No dudes en contactarme!
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
