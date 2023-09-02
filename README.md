@@ -1,13 +1,13 @@
 # 💫 About Me
 
-¡Hola! Soy **Tamara Piccinni**, una apasionada programadora con experiencia en HTML, CSS, JavaScript, Python y Django. Actualmente, estoy en busca de oportunidades como **desarrolladora web full-stack**.
+¡Hola! Soy **Tamara Piccinni**, una apasionada programadora con experiencia en HTML, CSS, JavaScript, Python y Django. Mi pasión por la tecnología me ha llevado a buscar oportunidades como **desarrolladora web full-stack**.
 
-Soy una entusiasta de la tecnología y estoy constantemente buscando nuevas formas de aprender y crecer. Me considero una persona **responsable** y **confiable**, y disfruto trabajar en equipo para resolver desafíos.
+Soy una entusiasta de la tecnología, y estoy constantemente explorando nuevas formas de aprender y crecer en este emocionante campo. Mi compromiso y confiabilidad me permiten trabajar eficazmente en equipo para resolver desafíos.
 
 ## Objetivos Profesionales
 
-* Desarrolladora web full-stack 🚀
-* Contribuir a la comunidad de código abierto 🌐
+* Convertirme en una desarrolladora web full-stack de alto rendimiento 🚀
+* Contribuir activamente a la comunidad de código abierto 🌐
 
 
 # 💻 Tech Stack
