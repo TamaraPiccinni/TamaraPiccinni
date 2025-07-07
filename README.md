@@ -1,6 +1,6 @@
 ### ¡Hola! Soy **Tamara Piccinni** 🌟
 
-Soy Técnica Universitaria en Programación y una apasionada programadora con experiencia en HTML, CSS, JavaScript, Python, y Django. Mi curiosidad y entusiasmo por la tecnología me han llevado a buscar constantemente nuevas oportunidades para aprender y crecer en el mundo del desarrollo. Me encanta enfrentar nuevos desafíos y resolver problemas, y mi compromiso con la calidad y el trabajo en equipo me permite aportar valor a cualquier proyecto en el que participe.
+Soy Técnica Universitaria en Programación, con experiencia en desarrollo web utilizando HTML, CSS, JavaScript, Python y Django. Me apasiona aprender nuevas tecnologías y mejorar continuamente mis habilidades. Disfruto enfrentar desafíos, resolver problemas y trabajar en equipo para construir soluciones de calidad. Actualmente me desempeño como docente y desarrolladora, combinando mi conocimiento técnico con la vocación de compartir y crecer junto a otros.
 
 ## 🎯 Objetivos Profesionales
 
